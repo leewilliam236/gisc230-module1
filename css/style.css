@@ -1,0 +1,11 @@
+p {
+	font-size: 25px;
+	font-family: sans-serif;
+}
+body{
+	background-color: indianred;
+}
+div {
+	padding: 25% 25% 25% 25%;
+	width: 50%;
+}
