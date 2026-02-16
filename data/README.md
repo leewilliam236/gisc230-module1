@@ -1,0 +1,1 @@
+GISC230-Module1 is my first project in Professor Judi Heher's GISC 230 ("WebGeoVisualization") class! Today I learned the fundamentals of how to make the structure of the webpage using HTML and how style the webpage using CSS!
